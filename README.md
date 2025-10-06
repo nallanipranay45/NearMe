@@ -43,8 +43,7 @@ map.html
         <center>
 
 
-
-<img src="MAP.png" usemap="#image-map">
+<img src="Screenshot 2025-10-06 114005.png" usemap="#image-map">
 
 <map name="image-map">
     <area target="" alt="skanda" title="skanda" href="" coords="1048,291,1133,332" shape="rect">
@@ -222,7 +221,7 @@ indra.html
 
 ```
 ## OUTPUT
-![alt text](MAP.png)
+![alt text](<Screenshot 2025-10-06 114005.png>)
 ![alt text](2.img.png)
 ![alt text](3.img.png)
 ![alt text](4.img.png)
