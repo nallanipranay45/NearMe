@@ -29,31 +29,28 @@ Execute the programs and publish them.
 map.html
 <html>
     <head>
-        <tittle></tittle>
-        <link rel ="stylesheet" href="style.css">
+        <title>MY CITY</title>
     </head>
     <body>
         <h1 align="center">
-            <font color="blue"><b>tiruttani</b>
-            </font>
+            <font color="red"><b>tiruttani</b></font>
         </h1>
         <h3 align="center">
-            <font color="orange"><b>LAKSHMI PRANAY N (25017706)</b></font>
+            <font color="blue"><b>N LAKSHMI PRANAY (25017706)</b></font>
+
         </h3>
         <center>
+            <img src="Screenshot 2025-10-06 144455.png" usemap="#image-map">
 
-
-<img src="Screenshot 2025-10-06 114005.png" usemap="#image-map">
-
-<map name="image-map">
-    <area target="" alt="skanda" title="skanda" href="" coords="1048,291,1133,332" shape="rect">
-    <area target="" alt="regency" title="regency" href="" coords="1402,156,37" shape="circle">
-    <area target="" alt="ja power" title="ja power" href="" coords="904,220,882,254,913,278,947,251,932,217" shape="poly">
-    <area target="" alt="subramanyaswamy" title="subramanyaswamy" href="" coords="894,474,811,438" shape="rect">
-    <area target="" alt="indra" title="indra" href="" coords="957,407,24" shape="circle">
+<map name="Screenshot 2025-10-06 144455.png">
+    <area target="" alt="indra" title="indra" href="" coords="954,418,24" shape="circle">
+    <area target="" alt="skanda" title="skanda" href="" coords="1106,332,1052,300" shape="rect">
+    <area target="" alt="regency" title="regency" href="" coords="1414,112,1363,112,1365,163,1406,185,1445,163" shape="poly">
+    <area target="" alt="JA" title="JA" href="" coords="952,262,882,234" shape="rect">
+    <area target="" alt="subramanyaswamy" title="subramanyaswamy" href="" coords="840,455,37" shape="circle">
 </map>
-</center>
-     </body>
+        </center>
+    </body>
 </html>
 
 skanda.html
@@ -221,7 +218,7 @@ indra.html
 
 ```
 ## OUTPUT
-![alt text](<Screenshot 2025-10-06 114005.png>)
+![alt text](<Screenshot 2025-10-06 155408.png>)
 ![alt text](2.img.png)
 ![alt text](3.img.png)
 ![alt text](4.img.png)
